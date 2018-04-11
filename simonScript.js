@@ -1,5 +1,7 @@
 "use strict";
 
+//push
+
 var gameOn = false;
 var round = 0;
 var userArray = [];
